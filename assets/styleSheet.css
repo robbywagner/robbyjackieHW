@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f6f578;
+}
+
+h1 {
+  width: 40%;
+  margin: 3rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5rem;
+  color: #06623b;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+  color: #649d66;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #00909e;
+}
+
+p{
+  color: #27496d;
+}
+
+tr{
+  font-family: 'Montserrat', sans-serif;
+  color: #27496d;
+line-height: 25px;
+text-align: center;
+}
+
+td{
+  font-family: 'Montserrat', sans-serif;
+  color: #27496d;
+  line-height: 2em;
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  font-family: 'Montserrat', sans-serif;
+  color: #27496d;
+line-height: 25px;
+}
+
+div {
+  background-color: #ececec;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 10;
+}
+
+.bottom-container{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f6f578;
+}
+
+.beach {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;}
+
+  .middle-container {
+    width: 70%;
+    margin: auto;
+  }
+
+.skills{
+  margin-top: 10px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  .skill-row{
+    width: 80%;
+    margin: 10px auto 100px auto;
+    text-align: center;
+  }
+.contact {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
